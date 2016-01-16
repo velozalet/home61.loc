@@ -1,0 +1,111 @@
+[Tue Aug 11 10:25:45.350130 2015] [:error] [pid 7957] [client 127.0.0.1:40873] PHP Warning:  require_once(/home/dev48/www/home61.loc): failed to open stream: Not a directory in /home/dev48/www/home61.loc/index.php on line 8
+[Tue Aug 11 10:25:45.350184 2015] [:error] [pid 7957] [client 127.0.0.1:40873] PHP Stack trace:
+[Tue Aug 11 10:25:45.359889 2015] [:error] [pid 7957] [client 127.0.0.1:40873] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:25:45.359934 2015] [:error] [pid 7957] [client 127.0.0.1:40873] PHP Fatal error:  require_once(): Failed opening required '' (include_path='.:/usr/share/php:/usr/share/pear') in /home/dev48/www/home61.loc/index.php on line 8
+[Tue Aug 11 10:25:45.359941 2015] [:error] [pid 7957] [client 127.0.0.1:40873] PHP Stack trace:
+[Tue Aug 11 10:25:45.359946 2015] [:error] [pid 7957] [client 127.0.0.1:40873] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:25:49.753641 2015] [:error] [pid 8010] [client 127.0.0.1:40874] PHP Warning:  require_once(/home/dev48/www/home61.loc): failed to open stream: Not a directory in /home/dev48/www/home61.loc/index.php on line 8
+[Tue Aug 11 10:25:49.753685 2015] [:error] [pid 8010] [client 127.0.0.1:40874] PHP Stack trace:
+[Tue Aug 11 10:25:49.753697 2015] [:error] [pid 8010] [client 127.0.0.1:40874] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:25:49.753711 2015] [:error] [pid 8010] [client 127.0.0.1:40874] PHP Fatal error:  require_once(): Failed opening required '' (include_path='.:/usr/share/php:/usr/share/pear') in /home/dev48/www/home61.loc/index.php on line 8
+[Tue Aug 11 10:25:49.753717 2015] [:error] [pid 8010] [client 127.0.0.1:40874] PHP Stack trace:
+[Tue Aug 11 10:25:49.753723 2015] [:error] [pid 8010] [client 127.0.0.1:40874] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:25:50.489990 2015] [:error] [pid 4506] [client 127.0.0.1:40876] PHP Warning:  require_once(/home/dev48/www/home61.loc): failed to open stream: Not a directory in /home/dev48/www/home61.loc/index.php on line 8
+[Tue Aug 11 10:25:50.490063 2015] [:error] [pid 4506] [client 127.0.0.1:40876] PHP Stack trace:
+[Tue Aug 11 10:25:50.490089 2015] [:error] [pid 4506] [client 127.0.0.1:40876] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:25:50.490119 2015] [:error] [pid 4506] [client 127.0.0.1:40876] PHP Fatal error:  require_once(): Failed opening required '' (include_path='.:/usr/share/php:/usr/share/pear') in /home/dev48/www/home61.loc/index.php on line 8
+[Tue Aug 11 10:25:50.490130 2015] [:error] [pid 4506] [client 127.0.0.1:40876] PHP Stack trace:
+[Tue Aug 11 10:25:50.490142 2015] [:error] [pid 4506] [client 127.0.0.1:40876] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:25:51.149138 2015] [:error] [pid 4439] [client 127.0.0.1:40877] PHP Warning:  require_once(/home/dev48/www/home61.loc): failed to open stream: Not a directory in /home/dev48/www/home61.loc/index.php on line 8
+[Tue Aug 11 10:25:51.149179 2015] [:error] [pid 4439] [client 127.0.0.1:40877] PHP Stack trace:
+[Tue Aug 11 10:25:51.149197 2015] [:error] [pid 4439] [client 127.0.0.1:40877] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:25:51.149215 2015] [:error] [pid 4439] [client 127.0.0.1:40877] PHP Fatal error:  require_once(): Failed opening required '' (include_path='.:/usr/share/php:/usr/share/pear') in /home/dev48/www/home61.loc/index.php on line 8
+[Tue Aug 11 10:25:51.149221 2015] [:error] [pid 4439] [client 127.0.0.1:40877] PHP Stack trace:
+[Tue Aug 11 10:25:51.149230 2015] [:error] [pid 4439] [client 127.0.0.1:40877] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:25:51.220533 2015] [:error] [pid 4440] [client 127.0.0.1:40878] PHP Warning:  require_once(/home/dev48/www/home61.loc): failed to open stream: Not a directory in /home/dev48/www/home61.loc/index.php on line 8
+[Tue Aug 11 10:25:51.220556 2015] [:error] [pid 4440] [client 127.0.0.1:40878] PHP Stack trace:
+[Tue Aug 11 10:25:51.220566 2015] [:error] [pid 4440] [client 127.0.0.1:40878] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:25:51.220589 2015] [:error] [pid 4440] [client 127.0.0.1:40878] PHP Fatal error:  require_once(): Failed opening required '' (include_path='.:/usr/share/php:/usr/share/pear') in /home/dev48/www/home61.loc/index.php on line 8
+[Tue Aug 11 10:25:51.220593 2015] [:error] [pid 4440] [client 127.0.0.1:40878] PHP Stack trace:
+[Tue Aug 11 10:25:51.220597 2015] [:error] [pid 4440] [client 127.0.0.1:40878] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:25:51.272666 2015] [:error] [pid 4442] [client 127.0.0.1:40879] PHP Warning:  require_once(/home/dev48/www/home61.loc): failed to open stream: Not a directory in /home/dev48/www/home61.loc/index.php on line 8
+[Tue Aug 11 10:25:51.272708 2015] [:error] [pid 4442] [client 127.0.0.1:40879] PHP Stack trace:
+[Tue Aug 11 10:25:51.272717 2015] [:error] [pid 4442] [client 127.0.0.1:40879] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:25:51.272731 2015] [:error] [pid 4442] [client 127.0.0.1:40879] PHP Fatal error:  require_once(): Failed opening required '' (include_path='.:/usr/share/php:/usr/share/pear') in /home/dev48/www/home61.loc/index.php on line 8
+[Tue Aug 11 10:25:51.272736 2015] [:error] [pid 4442] [client 127.0.0.1:40879] PHP Stack trace:
+[Tue Aug 11 10:25:51.272740 2015] [:error] [pid 4442] [client 127.0.0.1:40879] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:25:51.309780 2015] [:error] [pid 4443] [client 127.0.0.1:40880] PHP Warning:  require_once(/home/dev48/www/home61.loc): failed to open stream: Not a directory in /home/dev48/www/home61.loc/index.php on line 8
+[Tue Aug 11 10:25:51.309822 2015] [:error] [pid 4443] [client 127.0.0.1:40880] PHP Stack trace:
+[Tue Aug 11 10:25:51.309833 2015] [:error] [pid 4443] [client 127.0.0.1:40880] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:25:51.309846 2015] [:error] [pid 4443] [client 127.0.0.1:40880] PHP Fatal error:  require_once(): Failed opening required '' (include_path='.:/usr/share/php:/usr/share/pear') in /home/dev48/www/home61.loc/index.php on line 8
+[Tue Aug 11 10:25:51.309851 2015] [:error] [pid 4443] [client 127.0.0.1:40880] PHP Stack trace:
+[Tue Aug 11 10:25:51.309855 2015] [:error] [pid 4443] [client 127.0.0.1:40880] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:25:51.350412 2015] [:error] [pid 4441] [client 127.0.0.1:40881] PHP Warning:  require_once(/home/dev48/www/home61.loc): failed to open stream: Not a directory in /home/dev48/www/home61.loc/index.php on line 8
+[Tue Aug 11 10:25:51.350441 2015] [:error] [pid 4441] [client 127.0.0.1:40881] PHP Stack trace:
+[Tue Aug 11 10:25:51.350451 2015] [:error] [pid 4441] [client 127.0.0.1:40881] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:25:51.350463 2015] [:error] [pid 4441] [client 127.0.0.1:40881] PHP Fatal error:  require_once(): Failed opening required '' (include_path='.:/usr/share/php:/usr/share/pear') in /home/dev48/www/home61.loc/index.php on line 8
+[Tue Aug 11 10:25:51.350468 2015] [:error] [pid 4441] [client 127.0.0.1:40881] PHP Stack trace:
+[Tue Aug 11 10:25:51.350472 2015] [:error] [pid 4441] [client 127.0.0.1:40881] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:25:51.390688 2015] [:error] [pid 7957] [client 127.0.0.1:40882] PHP Warning:  require_once(/home/dev48/www/home61.loc): failed to open stream: Not a directory in /home/dev48/www/home61.loc/index.php on line 8
+[Tue Aug 11 10:25:51.390718 2015] [:error] [pid 7957] [client 127.0.0.1:40882] PHP Stack trace:
+[Tue Aug 11 10:25:51.390724 2015] [:error] [pid 7957] [client 127.0.0.1:40882] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:25:51.390731 2015] [:error] [pid 7957] [client 127.0.0.1:40882] PHP Fatal error:  require_once(): Failed opening required '' (include_path='.:/usr/share/php:/usr/share/pear') in /home/dev48/www/home61.loc/index.php on line 8
+[Tue Aug 11 10:25:51.390734 2015] [:error] [pid 7957] [client 127.0.0.1:40882] PHP Stack trace:
+[Tue Aug 11 10:25:51.390749 2015] [:error] [pid 7957] [client 127.0.0.1:40882] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:25:51.437345 2015] [:error] [pid 8010] [client 127.0.0.1:40883] PHP Warning:  require_once(/home/dev48/www/home61.loc): failed to open stream: Not a directory in /home/dev48/www/home61.loc/index.php on line 8
+[Tue Aug 11 10:25:51.437374 2015] [:error] [pid 8010] [client 127.0.0.1:40883] PHP Stack trace:
+[Tue Aug 11 10:25:51.437380 2015] [:error] [pid 8010] [client 127.0.0.1:40883] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:25:51.437388 2015] [:error] [pid 8010] [client 127.0.0.1:40883] PHP Fatal error:  require_once(): Failed opening required '' (include_path='.:/usr/share/php:/usr/share/pear') in /home/dev48/www/home61.loc/index.php on line 8
+[Tue Aug 11 10:25:51.437390 2015] [:error] [pid 8010] [client 127.0.0.1:40883] PHP Stack trace:
+[Tue Aug 11 10:25:51.437394 2015] [:error] [pid 8010] [client 127.0.0.1:40883] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:26:12.911777 2015] [:error] [pid 4506] [client 127.0.0.1:40884] PHP Fatal error:  Class 'cl_Mail' not found in /home/dev48/www/home61.loc/index.php on line 25
+[Tue Aug 11 10:26:12.911806 2015] [:error] [pid 4506] [client 127.0.0.1:40884] PHP Stack trace:
+[Tue Aug 11 10:26:12.911813 2015] [:error] [pid 4506] [client 127.0.0.1:40884] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:26:15.969779 2015] [:error] [pid 4439] [client 127.0.0.1:40885] PHP Fatal error:  Class 'cl_Mail' not found in /home/dev48/www/home61.loc/index.php on line 25
+[Tue Aug 11 10:26:15.969832 2015] [:error] [pid 4439] [client 127.0.0.1:40885] PHP Stack trace:
+[Tue Aug 11 10:26:15.969852 2015] [:error] [pid 4439] [client 127.0.0.1:40885] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:27:30.119265 2015] [:error] [pid 4443] [client 127.0.0.1:40888] PHP Fatal error:  Class 'cl_Mail' not found in /home/dev48/www/home61.loc/index.php on line 25
+[Tue Aug 11 10:27:30.119321 2015] [:error] [pid 4443] [client 127.0.0.1:40888] PHP Stack trace:
+[Tue Aug 11 10:27:30.119341 2015] [:error] [pid 4443] [client 127.0.0.1:40888] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:27:31.421981 2015] [:error] [pid 7957] [client 127.0.0.1:40890] PHP Fatal error:  Class 'cl_Mail' not found in /home/dev48/www/home61.loc/index.php on line 25
+[Tue Aug 11 10:27:31.422009 2015] [:error] [pid 7957] [client 127.0.0.1:40890] PHP Stack trace:
+[Tue Aug 11 10:27:31.422016 2015] [:error] [pid 7957] [client 127.0.0.1:40890] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:27:36.524457 2015] [:error] [pid 4506] [client 127.0.0.1:40892] PHP Fatal error:  Class 'cl_Mail' not found in /home/dev48/www/home61.loc/index.php on line 25
+[Tue Aug 11 10:27:36.524487 2015] [:error] [pid 4506] [client 127.0.0.1:40892] PHP Stack trace:
+[Tue Aug 11 10:27:36.524495 2015] [:error] [pid 4506] [client 127.0.0.1:40892] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:27:37.262564 2015] [:error] [pid 4439] [client 127.0.0.1:40893] PHP Fatal error:  Class 'cl_Mail' not found in /home/dev48/www/home61.loc/index.php on line 25
+[Tue Aug 11 10:27:37.262624 2015] [:error] [pid 4439] [client 127.0.0.1:40893] PHP Stack trace:
+[Tue Aug 11 10:27:37.262642 2015] [:error] [pid 4439] [client 127.0.0.1:40893] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:27:37.927394 2015] [:error] [pid 4442] [client 127.0.0.1:40894] PHP Fatal error:  Class 'cl_Mail' not found in /home/dev48/www/home61.loc/index.php on line 25
+[Tue Aug 11 10:27:37.927444 2015] [:error] [pid 4442] [client 127.0.0.1:40894] PHP Stack trace:
+[Tue Aug 11 10:27:37.927462 2015] [:error] [pid 4442] [client 127.0.0.1:40894] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:27:38.004144 2015] [:error] [pid 4440] [client 127.0.0.1:40895] PHP Fatal error:  Class 'cl_Mail' not found in /home/dev48/www/home61.loc/index.php on line 25
+[Tue Aug 11 10:27:38.004188 2015] [:error] [pid 4440] [client 127.0.0.1:40895] PHP Stack trace:
+[Tue Aug 11 10:27:38.004195 2015] [:error] [pid 4440] [client 127.0.0.1:40895] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:27:38.022773 2015] [:error] [pid 4443] [client 127.0.0.1:40896] PHP Fatal error:  Class 'cl_Mail' not found in /home/dev48/www/home61.loc/index.php on line 25
+[Tue Aug 11 10:27:38.022820 2015] [:error] [pid 4443] [client 127.0.0.1:40896] PHP Stack trace:
+[Tue Aug 11 10:27:38.022836 2015] [:error] [pid 4443] [client 127.0.0.1:40896] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:27:38.077675 2015] [:error] [pid 7957] [client 127.0.0.1:40897] PHP Fatal error:  Class 'cl_Mail' not found in /home/dev48/www/home61.loc/index.php on line 25
+[Tue Aug 11 10:27:38.077717 2015] [:error] [pid 7957] [client 127.0.0.1:40897] PHP Stack trace:
+[Tue Aug 11 10:27:38.077730 2015] [:error] [pid 7957] [client 127.0.0.1:40897] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:28:29.690538 2015] [:error] [pid 4506] [client 127.0.0.1:40900] PHP Fatal error:  Class 'cl_Mail' not found in /home/dev48/www/home61.loc/index.php on line 25
+[Tue Aug 11 10:28:29.690613 2015] [:error] [pid 4506] [client 127.0.0.1:40900] PHP Stack trace:
+[Tue Aug 11 10:28:29.690626 2015] [:error] [pid 4506] [client 127.0.0.1:40900] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:28:30.700438 2015] [:error] [pid 4442] [client 127.0.0.1:40902] PHP Fatal error:  Class 'cl_Mail' not found in /home/dev48/www/home61.loc/index.php on line 25
+[Tue Aug 11 10:28:30.700470 2015] [:error] [pid 4442] [client 127.0.0.1:40902] PHP Stack trace:
+[Tue Aug 11 10:28:30.700476 2015] [:error] [pid 4442] [client 127.0.0.1:40902] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:28:31.223948 2015] [:error] [pid 4439] [client 127.0.0.1:40901] PHP Fatal error:  Class 'cl_Mail' not found in /home/dev48/www/home61.loc/index.php on line 25
+[Tue Aug 11 10:28:31.223977 2015] [:error] [pid 4439] [client 127.0.0.1:40901] PHP Stack trace:
+[Tue Aug 11 10:28:31.223983 2015] [:error] [pid 4439] [client 127.0.0.1:40901] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:28:31.394238 2015] [:error] [pid 4440] [client 127.0.0.1:40903] PHP Fatal error:  Class 'cl_Mail' not found in /home/dev48/www/home61.loc/index.php on line 25
+[Tue Aug 11 10:28:31.394275 2015] [:error] [pid 4440] [client 127.0.0.1:40903] PHP Stack trace:
+[Tue Aug 11 10:28:31.394289 2015] [:error] [pid 4440] [client 127.0.0.1:40903] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:28:31.560246 2015] [:error] [pid 4443] [client 127.0.0.1:40904] PHP Fatal error:  Class 'cl_Mail' not found in /home/dev48/www/home61.loc/index.php on line 25
+[Tue Aug 11 10:28:31.560275 2015] [:error] [pid 4443] [client 127.0.0.1:40904] PHP Stack trace:
+[Tue Aug 11 10:28:31.560284 2015] [:error] [pid 4443] [client 127.0.0.1:40904] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:28:31.728404 2015] [:error] [pid 4441] [client 127.0.0.1:40906] PHP Fatal error:  Class 'cl_Mail' not found in /home/dev48/www/home61.loc/index.php on line 25
+[Tue Aug 11 10:28:31.728437 2015] [:error] [pid 4441] [client 127.0.0.1:40906] PHP Stack trace:
+[Tue Aug 11 10:28:31.728447 2015] [:error] [pid 4441] [client 127.0.0.1:40906] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0
+[Tue Aug 11 10:28:32.920515 2015] [:error] [pid 8010] [client 127.0.0.1:40907] PHP Fatal error:  Class 'cl_Mail' not found in /home/dev48/www/home61.loc/index.php on line 25
+[Tue Aug 11 10:28:32.920562 2015] [:error] [pid 8010] [client 127.0.0.1:40907] PHP Stack trace:
+[Tue Aug 11 10:28:32.920576 2015] [:error] [pid 8010] [client 127.0.0.1:40907] PHP   1. {main}() /home/dev48/www/home61.loc/index.php:0

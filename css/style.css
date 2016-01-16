@@ -1,0 +1,108 @@
+/*--------------------------------------------------------------
+                            HEADER
+--------------------------------------------------------------*/
+/* For navbar */
+
+/* add from bootstrap.css/Line:4680 */
+.navbar-inverse .navbar-toggle {
+    border-color: #185420;
+    margin-top: -60px;
+    margin-right: 15px;
+}
+.navbar-header {
+
+}
+.navbar {
+    border-radius: 0;
+    /*padding-left: 20%;*/
+    /*padding-right: auto;*/
+}
+.nav {
+    margin-bottom:0;
+    border-bottom: 0;
+}
+nav #myTab {
+    margin-top: 13px;  /* color: #ddd; */
+}
+
+
+#myTab a:hover {
+    color:#11c4a4;
+}
+#myTab a:focus {
+    color:#11c4a4;
+}
+#myTab li.active > a:focus{
+    color: #11c4a4;
+}
+.nav-tabs > li > a:hover {
+    border-color:transparent;
+    background-color: #222222;
+    color:#11c4a4;
+}
+#myTab li.disabled > a:focus {
+    border-color:transparent;
+    background-color: #222222;
+    color: #777;
+}
+#myTab li.disabled > a:hover {
+    border-color:transparent;
+    background-color: #222222;
+    color: #777;
+}
+#myTab> li.active >.disabled> a:focus {
+    border-color:transparent;
+    background-color: #222222;
+    color: #777;
+}
+.nav-tabs > li > a {
+    color: #ddd;
+    padding-top: 15px;
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+    color: #11c4a4;
+    ursor: default;
+    background-color: #222222;
+    border-bottom-color: transparent;
+}
+/* add from bootstrap.css/Line:4051 */
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+  background-color:inherit;
+    border-color: inherit;
+}
+/* add from bootstrap.css/Line:4209 */
+.nav-tabs .dropdown-menu {
+    margin-top: -1px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+
+/* For logo "HOME61" */
+.grey_text {
+    color:#4a555d;
+    font-weight:bold;
+}
+._61 {
+    color:#11c4a4;
+}
+
+/* <div> For text English and icon "flag" */
+.small_text {
+    color: #ddcaca;
+    font-weight:lighter;
+    font-size: 13px;
+    display: inline-block;
+}
+.elipse_img {
+    display: inline-block;
+    border-radius: 25px;
+    overflow: hidden;
+}
+.hey_silviu {
+   color: #777; /*  color: #ddcaca;  */
+}
+

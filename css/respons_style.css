@@ -1,0 +1,130 @@
+/*--------------------------------------------------------------
+                            HEADER
+--------------------------------------------------------------*/
+/* FOR element <button type='button' class='navbar-toggle'>- Кнопка "Открыть навигацию" прижмется вправо,чем будет менее мешать элементу слева */
+@media (max-width: 350px) {
+    .navbar-inverse .navbar-toggle {
+        border-color: #185420;
+        margin-top: -60px;
+        margin-right: -15px;
+    }
+}
+
+/*_____________________FOR <div class='col-sm-2'> */
+@media (max-width: 1708px) { /* весь <div> прижмется влево, чем доп.освободит место */
+    #col_sm_2_navbar_res {
+        margin-left: 0;
+    }
+}
+@media (max-width: 1390px) {  /* весь <div> ставим в ширину 100% - теперь с этого разрешения он будет на всю ширину имеющегося экрана и поверх всех */
+    #col_sm_2_navbar_res {
+        margin-left: 0;
+        width: 100%;
+    }
+}
+
+
+/*_____________________FOR <div class='col-sm-9'> */
+/* FOR <div class='col-sm-9'> - убираем правый margin */
+@media (max-width: 1708px) {
+    #col_sm_9_navbar_res {
+        margin-right: 0;
+    }
+    /* nav #myTab {
+        margin-top: 0; /* само НавМеню с вкладками подтянуть к верхнему <div> */
+    /*}*/
+}
+
+@media (max-width: 1585px) {  /* растягиваем ширину <div>,чтобы все элементы НавМеню в нем умещались в одну линию */
+    #col_sm_9_navbar_res {
+        width: 80%;
+    }
+}
+@media (max-width: 1485px) { /* растягиваем ширину <div>,чтобы все элементы НавМеню в нем умещались в одну линию */
+    #col_sm_9_navbar_res {
+        width: 83%;
+    }
+}
+@media (max-width: 1435px) { /* растягиваем ширину <div>,чтобы все элементы НавМеню в нем умещались в одну линию */
+    #col_sm_9_navbar_res {
+        width: 100%;
+        float: none;
+    }
+ }
+@media (max-width: 1390px) {  /* растягиваем ширину <div>,чтобы все элементы НавМеню в нем умещались в одну линию */
+    #col_sm_9_navbar_res {
+        width: 100%;
+        float: left;
+        margin-top: -19px;
+    }
+}
+@media (max-width: 955px) {   /* растягиваем ширину <div>,чтобы все элементы НавМеню в нем умещались в одну линию */
+    #col_sm_9_navbar_res {
+        width: 109%;
+        float: left;
+        margin-top: -19px;
+        margin-left: -25px;
+    }
+}
+
+
+/*_____________________FOR <li> в кот.сидит иконка-Юзера и его Имя */
+@media (max-width: 1185px) {
+    #logo_and_img {
+        position: absolute;
+        top: -46px;
+        right: 20px;
+    }
+}
+@media (max-width: 955px) {
+    #logo_and_img {
+        position: absolute;
+        top: -46px;
+        right: 80px;
+    }
+}
+@media (max-width: 767px) {
+    #logo_and_img {
+        position: absolute;
+        top: -46px;
+        right: 120px;
+    }
+}
+
+@media (max-width: 540px) {
+    #logo_and_img {
+        float: left;
+        display: block;
+        margin:20px 0 20px 0;
+        position: absolute;
+        width: 100%;
+        top: 76px;
+        left: -10px;
+    }
+}
+
+
+/*_____________________FOR <li> в кот,сидят пункты НавМеню */
+@media (max-width: 900px) {  /* сделает их на всю ширину экрана,и обеспечит их расположение друг под другом */
+    .respon_li_ver {
+        width: 100%;
+    }
+    #myTab > li.active > a,
+    #myTab > li.active > a:hover,
+    #myTab > li.active > a:focus {  /* при таком разрешении убираем рамку(border) на активной закладке НавМеню*/
+        background-color: #222222;
+        border: 1px solid #222222;
+        border-bottom-color: transparent;
+    }
+}
+                               /* 767px - момент появления кнопки "Развернуть Меню" */
+@media (max-width: 767px) {   /* при таком разрешении убираем рамку(border) на активной закладке НавМеню*/
+    #myTab > li.active > a,
+    #myTab > li.active > a:hover,
+    #myTab > li.active > a:focus {
+        background-color: #222222;
+        border: 1px solid #222222;
+        border-bottom-color: transparent;
+    }
+}
+
